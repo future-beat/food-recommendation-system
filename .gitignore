@@ -1,0 +1,8 @@
+# Data files (too large for GitHub)
+data/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
